@@ -22,12 +22,12 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 //
 global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
+global.OwnerNumber = ["254723284372", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["254723284372"];
+global.OwnerName = "Najib";
+global.BotName = "6ix";
 global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Kai";                               //Do not change.
+global.author = "By: Najib";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -82,8 +82,8 @@ global.mess = {
   jobdone: 'Here you go...',
   useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
+  botowner: 'Only  *Najib* can use this command, Baka!',
+  grouponly: 'This command is only made for *Groups*, zaza!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
@@ -91,7 +91,7 @@ global.mess = {
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  nonsfw: 'Dont be a pervert ! This is not a NSFW enabled group!'
 
 }
 
